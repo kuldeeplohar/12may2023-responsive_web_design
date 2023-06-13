@@ -1,0 +1,18 @@
+.k_cont{
+    height:420px; 
+}
+header{
+    height: 110px;
+    background-color: #9933cc;
+    padding-left: 20px;
+    padding: 13px;
+}
+main{
+    min-height:420px;
+}
+footer{
+    height:70px;
+    background-color:  #0099cc;
+    padding: 22px;
+    text-align: center;
+}
